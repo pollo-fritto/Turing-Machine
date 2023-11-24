@@ -12,5 +12,5 @@ Given an input file with the Turing machine structure and a list of strings, the
 
 ## Thoughts
 
-Good opportunity to use RB trees
+Good opportunity to use RB trees.
 Making recursive the algorithm to accept the string was the worst idea ever for space complexity
