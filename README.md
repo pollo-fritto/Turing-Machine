@@ -10,7 +10,7 @@ The project task was to implement an universal single tape acceptor Turing machi
 Given an input file with the Turing machine structure and a list of strings, the program should output a file with, for every string, a 0 or a 1 if the given Turing machine accepts or not the input string
 
 
-##Thoughts
+## Thoughts
 
 Good opportunity to use RB trees
 Making recursive the algorithm to accept the string was the worst idea ever for space complexity
